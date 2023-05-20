@@ -83,8 +83,8 @@ let textInput1 = document.getElementById("sender");
 
 // https://d8728927-d42c-4f66-bec9-5c2fa2d9abe5.mock.pstmn.io/dard
 
-// const uploadurl = 'http://localhost:5000/api/files';
-const uploadurl = 'https://d8728927-d42c-4f66-bec9-5c2fa2d9abe5.mock.pstmn.io/dard';
+const uploadurl = 'https://backend-updated-efbf.onrender.com/api/files';
+// const uploadurl = 'https://d8728927-d42c-4f66-bec9-5c2fa2d9abe5.mock.pstmn.io/dard';
 
 dropZone.addEventListener('dragover', (e) => {
     e.preventDefault();
