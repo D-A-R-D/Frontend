@@ -229,8 +229,8 @@ function sendEmail() {
     link: `${fileUrl.value}`,
   };
 
-  const serviceID = "service_qgbpwgm";
-  const templateID = "template_wbdqs7o";
+  const serviceID = "service_byhzm4w";
+  const templateID = "template_owbja5p";
 
 
    if(sender!="" && reciver!=""){
